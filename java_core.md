@@ -44,6 +44,6 @@ public void findAnswer(boolean check) {
 ```
 
 Here are some tips to help you remember logical truth tables for &, |, and ^:
-■ AND is only true if both operands are true.
-■ Inclusive OR is only false if both operands are false.
-■ Exclusive OR is only true if the operands are different.
+- AND is only true if both operands are true.
+- Inclusive OR is only false if both operands are false.
+- Exclusive OR is only true if the operands are different.
