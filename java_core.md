@@ -42,3 +42,8 @@ public void findAnswer(boolean check) {
         System.out.println(answer);
         System.out.println(onlyOneBranch); // DOES NOT COMPILE because it does not present in else section
 ```
+
+Here are some tips to help you remember logical truth tables for &, |, and ^:
+■ AND is only true if both operands are true.
+■ Inclusive OR is only false if both operands are false.
+■ Exclusive OR is only true if the operands are different.
